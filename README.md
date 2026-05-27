@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Whispering In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-in-the-dark/) |
+| **Get License** | [Music Rights & Licensing for Whispering In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Oh, the shadows fall, but the fire is wide awake
+> I can feel the pull in every single breath you take
+> There’s a quiet storm, and we’re standing in the spark
+> Just you and me, whispering in the dark
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
