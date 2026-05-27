@@ -15,7 +15,7 @@
 | **Written On** | May 27, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whispering-in-the-dark/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Whispering In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-in-the-dark/) |
+| **Get License** | [Commercial Licensing for Whispering In The Dark](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whispering-in-the-dark/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2212)
 
 ---
 
