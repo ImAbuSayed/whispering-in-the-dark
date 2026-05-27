@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Whispering In The Dark
+
+This log tracks the cryptographic history and versioning for the song **Whispering In The Dark** (whispering-in-the-dark).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-27T14:30:26.318362 | `v1` | `b5513ab8dab55a6e1c8b03f3ce8e7acf5b3b53fb0696c9fe5862d563d239f1b4` | `460dfcd14fac640d28ef8b4ace2d63aef9e546b3fe782270e5505d02f254748b` | `2026-05-27_whispering-in-the-dark-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
